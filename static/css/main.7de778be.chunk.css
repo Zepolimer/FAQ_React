@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: border-box;
+}
+body {
+  width: 100vw;
+  min-height: 100vh;
+  max-height: 150vh;
+  background: linear-gradient(180deg, #af67e9, #6565e7);
+  font-size: 13px;
+  font-family: "Kumbh Sans";
+}
+/*# sourceMappingURL=main.7de778be.chunk.css.map */
